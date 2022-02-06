@@ -1,5 +1,3 @@
-#Markdown
-
 There are two runnable classes: Validate.java (so that this project is compatible with the autograding script) and Driver.java (the normal main method).  In addition, there is a Puzzle class that encapsulates all the functionality of the puzzle's board, a Solver class that finds a solution to given Puzzle object, and a WordWrap class that helps format text.
 
 Validate.java takes in the puzzle input configuration in the same format as the files on the P2Examples folder on blackboard.  Then it will print either success or failed depending of whether the set of instructions solves the given board.
